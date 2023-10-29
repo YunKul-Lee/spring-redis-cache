@@ -1,4 +1,4 @@
-package com.jake.springrediscache.countriesbe.constants;
+package com.jake.springrediscache.constants;
 
 public class CacheNames {
 

@@ -1,6 +1,6 @@
-package com.jake.springrediscache.countriesbe.config;
+package com.jake.springrediscache.config;
 
-import com.jake.springrediscache.countriesbe.constants.CacheNames;
+import com.jake.springrediscache.constants.CacheNames;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.cache.RedisCacheManagerBuilderCustomizer;
 import org.springframework.cache.annotation.EnableCaching;
